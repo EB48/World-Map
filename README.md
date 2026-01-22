@@ -1,5 +1,4 @@
 ## Project Configuration
-Student ID: 011931727
 Angular Version: 18.2.0
 
 # D280Project
